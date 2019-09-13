@@ -1,0 +1,46 @@
+@model contasLuz.Models.Conta
+
+<div class="form-horizontal">
+    <form action="Create" method="Post">
+
+        <div class="form-group">
+            <label>Data Leitura</label>
+            <input  class="form-control"
+                    type="text" name="dataLeitura" value="@Model.dataLeitura"/>
+        </div>
+
+        <div class="form-group">
+            <label>numero Leitura</label>
+            <input readonly class="form-control"
+                    type="text" name="numeroLeitura" value="@Model.numeroLeitura"/>
+        </div>
+
+        <div class="form-group">
+            <label>kw Gastos</label>
+            <input  class="form-control"
+                    type="text" name="kwGasto" value="@Model.kwGasto"/>
+        </div>
+
+        <div class="form-group">
+            <label>valor Pagar</label>
+            <input  class="form-control"
+                    type="text" name="valorPagar" value="@Model.valorPagar"/>
+        </div>
+
+        <div class="form-group">
+            <label>data Pagamento</label>
+            <input  class="form-control"
+                    type="text" name="dataPagamento" value="@Model.dataPagamento"/>
+        </div>
+
+        <div class="form-group">
+            <label>media Consumo</label>
+            <input  class="form-control"
+                    type="text" name="mediaConsumo" value="@Model.mediaConsumo"/>
+        </div>
+
+        <input  class="btn btn-primary" 
+                type="submit" value="Salvar"/>
+
+    </form>
+</div>

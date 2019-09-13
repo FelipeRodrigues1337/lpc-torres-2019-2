@@ -1,0 +1,65 @@
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\bin\Debug\netcoreapp2.2\contasLuz.deps.json
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\bin\Debug\netcoreapp2.2\contasLuz.runtimeconfig.json
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\bin\Debug\netcoreapp2.2\contasLuz.runtimeconfig.dev.json
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\bin\Debug\netcoreapp2.2\contasLuz.dll
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\bin\Debug\netcoreapp2.2\contasLuz.pdb
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\bin\Debug\netcoreapp2.2\contasLuz.Views.dll
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\bin\Debug\netcoreapp2.2\contasLuz.Views.pdb
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.csprojAssemblyReference.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.RazorAssemblyInfo.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.RazorAssemblyInfo.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.AssemblyInfo.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.TagHelpers.input.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.TagHelpers.output.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.RazorCoreGenerate.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.RazorTargetAssemblyInfo.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.RazorTargetAssemblyInfo.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.Views.pdb
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.dll
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.pdb
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.csproj.CopyComplete
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Conta\Index.g.cshtml.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Conta\Create.g.cshtml.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\bin\Debug\netcoreapp2.2\contasLuz.deps.json
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\bin\Debug\netcoreapp2.2\contasLuz.runtimeconfig.json
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\bin\Debug\netcoreapp2.2\contasLuz.runtimeconfig.dev.json
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\bin\Debug\netcoreapp2.2\contasLuz.dll
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\bin\Debug\netcoreapp2.2\contasLuz.pdb
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\bin\Debug\netcoreapp2.2\contasLuz.Views.dll
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\bin\Debug\netcoreapp2.2\contasLuz.Views.pdb
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.csprojAssemblyReference.cache
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.RazorAssemblyInfo.cache
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.RazorAssemblyInfo.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.AssemblyInfo.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.TagHelpers.input.cache
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.TagHelpers.output.cache
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.RazorCoreGenerate.cache
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Conta\Create.g.cshtml.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Conta\Edit.g.cshtml.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Conta\Index.g.cshtml.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.RazorTargetAssemblyInfo.cache
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.RazorTargetAssemblyInfo.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.Views.pdb
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.dll
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.pdb
+C:\Users\Felipe\Documents\lpc-torres-2019-2\contasLuz\obj\Debug\netcoreapp2.2\contasLuz.csproj.CopyComplete

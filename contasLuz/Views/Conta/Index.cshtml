@@ -1,0 +1,39 @@
+@model IEnumerable<contasLuz.Models.Conta>
+
+    
+
+<a href="Conta/Create" class="btn btn-primary">Nova Conta</a>
+
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Data Leitura</th>
+                <th>Número Leitura</th>
+                <th>Kw Gastos</th>
+                <th>Valor a Pagar</th>
+                <th>Data Pagamento</th>
+                <th>Média Consumo</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.dataLeitura</td>
+                <td>@item.numeroLeitura</td>
+                <td>@item.kwGasto</td>
+                <td>@item.valorPagar</td>
+                <td>@item.dataPagamento</td>
+                <td>@item.mediaConsumo</td>
+                <td><a class="btn btn-danger"
+                    href="Conta/Delete/@item.numeroLeitura">Delete</a> </td>
+                <td><a class="btn btn-primary" 
+                    href="Conta/Edit/@item.numeroLeitura">Editar</a> </td>
+            </tr>
+        }
+    </table>
+</div>
