@@ -1,0 +1,21 @@
+@model crud_efcorePeople.Models.Person
+
+<div class="form-horizontal">
+    <form action="Edit" method="Post">
+
+        <div class="form-group">
+            <label>Name</label>
+            <input  class="form-control"
+                    type="text" name="name" value="@Model.name"/>
+        </div>
+
+        <div class="form-group">
+            <label>Address</label>
+            <input class="form-control"
+                    type="text" name="address" value="@Model.address"/>
+        </div>
+        <input  class="btn btn-primary" 
+                type="submit" value="Salvar"/>
+
+    </form>
+</div>

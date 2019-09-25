@@ -1,0 +1,33 @@
+@model IEnumerable<crud_efcorePeople.Models.Person>
+
+    
+
+<a href="People/Create" class="btn btn-primary">Nova Pessoa</a>
+
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>address</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.name</td>
+                <td>@item.address</td>
+                <td><a class="btn btn-danger"
+                    href="People/Delete/@item.id">Delete</a> </td>
+                <td><a class="btn btn-primary" 
+                    href="People/Edit/@item.id">Editar</a> </td>
+            </tr>
+        }
+    </table>
+</div>
