@@ -21,7 +21,6 @@ namespace contasLuz.Models
             
         }
 
-
         public int numeroLeitura { get; set; }
        public DateTime dataLeitura { get; set; }
        public int kwGasto { get; set; }

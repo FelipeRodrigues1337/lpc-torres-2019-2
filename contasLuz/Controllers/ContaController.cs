@@ -6,8 +6,7 @@ namespace contasLuz.Controllers
 {
     public class ContaController : Controller
     {
-        ContaRepository _repository = 
-            new ContaRepository();
+        private IContaRepository _repository;
         public IActionResult Index()
         {
             var contas = _repository.GetAllContaLuz();
