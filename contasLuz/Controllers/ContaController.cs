@@ -7,12 +7,17 @@ namespace contasLuz.Controllers
     public class ContaController : Controller
     {
         private IContaRepository _repository;
+
+        public ContaController(IContaRepository repository){
+        this._repository = repository;
+        }
+
         public IActionResult Index()
         {
-            var contas = _repository.GetAllContaLuz();
-            return View(contas);
+            var listConta = _repository.GetAll();
+            return View(listConta);
         }
-        
+  
         public IActionResult Create()
         {            
             return View();
@@ -27,8 +32,8 @@ namespace contasLuz.Controllers
 
         public IActionResult Edit(int id)
         {   
-            
-            return View(_repository.GetById(id));
+            var conta = _repository.GetById(id);
+            return View(conta);
         }
 
         [HttpPost]
@@ -37,13 +42,10 @@ namespace contasLuz.Controllers
             _repository.Update(conta);
             return RedirectToAction("Index");
         }
-
-
         public IActionResult Delete(int id)
         {   
             _repository.Delete(id);
-            return RedirectToAction("Index");
+         return RedirectToAction("Index");
         }
-        
     }
 }

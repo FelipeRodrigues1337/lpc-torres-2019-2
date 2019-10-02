@@ -1,8 +1,14 @@
 @model contasLuz.Models.Conta
 
 <div class="form-horizontal">
-    <form action="Create" method="Post">
+    <form action="Edit" method="Post">
 
+        <div class="form-group">
+            <label>Id</label>
+            <input readonly class="form-control"
+                    type="text" name="id" value="@Model.id"/>
+        </div>
+        
         <div class="form-group">
             <label>Data Leitura</label>
             <input  class="form-control"

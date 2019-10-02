@@ -37,7 +37,7 @@ namespace contasLuz
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             
             services.AddDbContext<DataContext>(x => x.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
-            //services.AddScoped<IContaRepository,ContaRepository>();
+            services.AddScoped<IContaRepository,ContaRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

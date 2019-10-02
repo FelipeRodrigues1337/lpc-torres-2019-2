@@ -23,19 +23,19 @@ namespace contasLuz.Models
             return context.contaLuz.ToList();
         }
         
-        public Conta GetById(int numeroLeitura)
+        public Conta GetById(int id)
         {
-            return context.contaLuz.SingleOrDefault(x=>x.numeroLeitura ==numeroLeitura);
+            return context.contaLuz.SingleOrDefault(x=>x.id ==id);
         }
-        public void Delete(int numeroLeitura)
+        public void Delete(int id)
         {
-           context.contaLuz.Remove(GetById(numeroLeitura));
+           context.contaLuz.Remove(GetById(id));
             context.SaveChanges();
         }
 
         public void Update(Conta conta)
         {
-            var objContaLuz = GetById(conta.numeroLeitura);
+            var objContaLuz = GetById(conta.id);
             objContaLuz.numeroLeitura = conta.numeroLeitura;
             objContaLuz.dataLeitura = conta.dataLeitura;
             objContaLuz.kwGasto = conta.kwGasto;
