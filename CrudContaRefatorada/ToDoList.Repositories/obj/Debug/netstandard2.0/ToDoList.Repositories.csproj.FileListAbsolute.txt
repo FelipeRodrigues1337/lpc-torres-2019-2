@@ -1,0 +1,4 @@
+C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.Repositories\obj\Debug\netstandard2.0\ToDoList.Repositories.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.Repositories\obj\Debug\netstandard2.0\ToDoList.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.Repositories\obj\Debug\netstandard2.0\ToDoList.Repositories.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.Repositories\obj\Debug\netstandard2.0\ToDoList.Repositories.AssemblyInfo.cs

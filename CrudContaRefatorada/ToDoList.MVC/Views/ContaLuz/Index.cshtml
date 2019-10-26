@@ -1,0 +1,102 @@
+@model ToDoList.MVC.ViewsModels.ContaLuzViewModel;
+
+@{
+    ViewData["Title"] = "Contas de Luz";
+}
+
+<h2 class="text-left">Contas de Luz</h2>
+<p class="text-left">
+    @Html.ActionLink("Adicionar Conta de Luz", "Create", new {}, new { @class = "btn btn-success" })
+</p>
+<table class="table table-hover table-striped text-center">
+    <thead>
+        <tr>
+            <th>ID</th>
+            
+            <th>Data Leitura</th>
+            <th>KW Gasto</th>
+            <th>Valor a pagar</th>
+            <th>Data Pagamento</th>
+            <th>Média Consumo</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model.listaContasLuz)
+        {
+            <tr>
+                <th>@item.id</th>
+                
+                <td>@item.dataLeitura.ToString("dd/MM/yyyy")</td>
+                <td>@item.kwGasto</td>
+                <td>R$ @item.valorAPagar</td>
+                <td>@item.dataPagamento.ToString("dd/MM/yyyy")</td>
+                <td>@item.mediaConsumo</td>
+                <td class="text-center">
+                    <div class="btn-group" role="group" aria-label="actions">
+                    <a class="btn btn-secondary" 
+                        asp-controller="ContaLuz" 
+                        asp-action="Update" 
+                        asp-route-id="@item.id"><i class="fas fa-edit"></i></a>
+
+                    <a class="btn btn-secondary" 
+                        asp-controller="ContaLuz" 
+                        asp-action="Delete" 
+                        asp-route-id="@item.id"><i class="fas fa-trash-alt"></i></a>
+                        </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<h3 class="my-4">Menor Consumo</h3>
+<table class="table table-hover table-striped text-center">
+    <thead>
+        <tr>
+            <th>Data Leitura</th>
+            <th>KW Gasto</th>
+            <th>Valor a pagar</th>
+            <th>Data Pagamento</th>
+            <th>Média Consumo</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @if (Model.listaContasLuz.Any())
+        {
+        <tr>
+            <td>@Model.menorConsumo.dataLeitura.ToString("dd/MM/yyyy")</td>
+            <td>@Model.menorConsumo.kwGasto</td>
+            <td>R$ @Model.menorConsumo.valorAPagar</td>
+            <td>@Model.menorConsumo.dataPagamento.ToString("dd/MM/yyyy")</td>
+            <td>@Model.menorConsumo.mediaConsumo</td>
+        </tr>
+        }
+    </tbody>
+</table>
+<h3 class="my-4">Maior Consumo</h3>
+<table class="table table-hover table-striped text-center">
+    <thead>
+        <tr>
+            <th>Data Leitura</th>
+            <th>KW Gasto</th>
+            <th>Valor a pagar</th>
+            <th>Data Pagamento</th>
+            <th>Média Consumo</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @if (Model.listaContasLuz.Any())
+        {
+        <tr>
+            <td>@Model.maiorConsumo.dataLeitura.ToString("dd/MM/yyyy")</td>
+            <td>@Model.maiorConsumo.kwGasto</td>
+            <td>R$ @Model.maiorConsumo.valorAPagar</td>
+            <td>@Model.maiorConsumo.dataPagamento.ToString("dd/MM/yyyy")</td>
+            <td>@Model.maiorConsumo.mediaConsumo</td>
+        </tr>
+        }
+    </tbody>
+</table>

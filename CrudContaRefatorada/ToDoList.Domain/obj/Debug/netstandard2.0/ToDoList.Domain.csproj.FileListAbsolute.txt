@@ -1,0 +1,9 @@
+C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.Domain\bin\Debug\netstandard2.0\ToDoList.Domain.deps.json
+C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.Domain\bin\Debug\netstandard2.0\ToDoList.Domain.dll
+C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.Domain\bin\Debug\netstandard2.0\ToDoList.Domain.pdb
+C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.Domain\obj\Debug\netstandard2.0\ToDoList.Domain.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.Domain\obj\Debug\netstandard2.0\ToDoList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.Domain\obj\Debug\netstandard2.0\ToDoList.Domain.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.Domain\obj\Debug\netstandard2.0\ToDoList.Domain.AssemblyInfo.cs
+C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.Domain\obj\Debug\netstandard2.0\ToDoList.Domain.dll
+C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.Domain\obj\Debug\netstandard2.0\ToDoList.Domain.pdb

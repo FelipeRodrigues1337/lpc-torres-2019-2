@@ -1,0 +1,68 @@
+﻿@model ToDoList.classes.ContaLuz;
+
+@{
+    ViewData["Title"] = "Contas de Luz";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+
+        @Html.HiddenFor(model => model.id)
+
+        <div class="form-group col-12 col-sm-8 col-md-6 text-left">
+            <div class="editor-label">
+                Data Leitura
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.dataLeitura, new { htmlAttributes = new { @class = "form-control"} })
+                <small class="form-text text-muted">@Html.ValidationMessageFor(model => model.dataLeitura)</small>
+            </div>
+        </div>
+
+        <div class="form-group col-12 col-sm-8 col-md-6 text-left">
+            <div class="editor-label">
+                KW Gasto
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.kwGasto, new { htmlAttributes = new { @class = "form-control"} })
+                <small class="form-text text-muted">@Html.ValidationMessageFor(model => model.kwGasto)</small>
+            </div>
+        </div>
+
+        <div class="form-group col-12 col-sm-8 col-md-6 text-left">
+            <div class="editor-label">
+                Valor a pagar
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.valorAPagar, new { htmlAttributes = new { @class = "form-control"} })
+                <small class="form-text text-muted">@Html.ValidationMessageFor(model => model.valorAPagar)</small>
+            </div>
+        </div>
+
+        <div class="form-group col-12 col-sm-8 col-md-6 text-left">
+            <div class="editor-label">
+                Data Pagamento
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.dataPagamento, new { htmlAttributes = new { @class = "form-control"} })
+                <small class="form-text text-muted">@Html.ValidationMessageFor(model => model.dataPagamento)</small>
+            </div>
+        </div>
+
+        <div class="form-group col-12 col-sm-8 col-md-6 text-left">
+            <div class="editor-label">
+                Média de Consumo
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.mediaConsumo, new { htmlAttributes = new { @class = "form-control"} })
+                <small class="form-text text-muted">@Html.ValidationMessageFor(model => model.mediaConsumo)</small>
+            </div>
+        </div>
+
+        <div class="d-block text-left">
+            <button type="submit" class="btn btn-success d-block my-4 text-left">Atualizar</button>
+
+            @Html.ActionLink("Voltar", "Index", null, null, new { @class = "mt-2 d-block" })
+        </div>
+    }

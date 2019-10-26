@@ -1,0 +1,50 @@
+@model IEnumerable<ToDoList.classes.Imoveis>;
+
+@{
+    ViewData["Title"] = "Imoveis";
+}
+
+<h2 class="text-left">Imoveis</h2>
+<p class="text-left">
+    @Html.ActionLink("Adicionar Imovel", "Create", new {}, new { @class = "btn btn-success" })
+</p>
+<table class="table table-hover table-striped text-center">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Identificação</th>
+            <th>Numero</th>
+            <th>Bairro</th>
+            <th>Cidade</th>
+            <th>Estado</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th>@item.id</th>
+                <td>@item.identificação</td>
+                <td>@item.numero</td>
+                <td>@item.bairro</td>
+                <td>@item.cidade</td>
+                <td>@item.estado</td>
+                <td class="text-center">
+                    <div class="btn-group" role="group" aria-label="actions">
+                    <a class="btn btn-secondary" 
+                        asp-controller="Imovel" 
+                        asp-action="Update" 
+                        asp-route-id="@item.id"><i class="fas fa-edit"></i></a>
+
+                    <a class="btn btn-secondary" 
+                        asp-controller="Imovel" 
+                        asp-action="Delete" 
+                        asp-route-id="@item.id"><i class="fas fa-trash-alt"></i></a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
