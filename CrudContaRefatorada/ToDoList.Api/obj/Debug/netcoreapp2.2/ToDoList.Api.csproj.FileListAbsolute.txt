@@ -1,0 +1,14 @@
+C:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.Api\bin\Debug\netcoreapp2.2\ToDoList.Api.deps.json
+C:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.Api\bin\Debug\netcoreapp2.2\ToDoList.Api.runtimeconfig.json
+C:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.Api\bin\Debug\netcoreapp2.2\ToDoList.Api.runtimeconfig.dev.json
+c:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.Api\bin\Debug\netcoreapp2.2\ToDoList.Api.dll
+c:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.Api\bin\Debug\netcoreapp2.2\ToDoList.Api.pdb
+c:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.Api\obj\Debug\netcoreapp2.2\ToDoList.Api.csprojAssemblyReference.cache
+c:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.Api\obj\Debug\netcoreapp2.2\ToDoList.Api.csproj.CoreCompileInputs.cache
+c:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.Api\obj\Debug\netcoreapp2.2\ToDoList.Api.RazorAssemblyInfo.cache
+c:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.Api\obj\Debug\netcoreapp2.2\ToDoList.Api.RazorAssemblyInfo.cs
+c:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.Api\obj\Debug\netcoreapp2.2\ToDoList.Api.AssemblyInfoInputs.cache
+c:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.Api\obj\Debug\netcoreapp2.2\ToDoList.Api.AssemblyInfo.cs
+c:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.Api\obj\Debug\netcoreapp2.2\ToDoList.Api.RazorTargetAssemblyInfo.cache
+c:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.Api\obj\Debug\netcoreapp2.2\ToDoList.Api.dll
+c:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.Api\obj\Debug\netcoreapp2.2\ToDoList.Api.pdb

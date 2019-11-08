@@ -40,3 +40,11 @@ C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.MVC\obj\Debug\netcoreapp2.2\
 C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Imovel\View.g.cshtml.cs
 C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Imovel\Create.g.cshtml.cs
 C:\Users\rober\Desktop\CrudContaRefatorada\ToDoList.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Imovel\Update.g.cshtml.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.MVC\obj\Debug\netcoreapp2.2\ToDoList.MVC.csprojAssemblyReference.cache
+C:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.MVC\obj\Debug\netcoreapp2.2\ToDoList.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.MVC\obj\Debug\netcoreapp2.2\ToDoList.MVC.RazorAssemblyInfo.cache
+C:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.MVC\obj\Debug\netcoreapp2.2\ToDoList.MVC.RazorAssemblyInfo.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.MVC\obj\Debug\netcoreapp2.2\ToDoList.MVC.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.MVC\obj\Debug\netcoreapp2.2\ToDoList.MVC.AssemblyInfo.cs
+C:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.MVC\obj\Debug\netcoreapp2.2\ToDoList.MVC.dll
+C:\Users\Felipe\Documents\lpc-torres-2019-2\CrudContaRefatorada\ToDoList.MVC\obj\Debug\netcoreapp2.2\ToDoList.MVC.pdb

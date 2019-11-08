@@ -13413,23 +13413,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rober\\.nuget\\packages\\": {},
+    "C:\\Users\\Felipe\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Desktop\\CrudContaRefatorada\\ToDoList.MVC\\ToDoList.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\Felipe\\Documents\\lpc-torres-2019-2\\CrudContaRefatorada\\ToDoList.MVC\\ToDoList.MVC.csproj",
       "projectName": "ToDoList.MVC",
-      "projectPath": "C:\\Users\\rober\\Desktop\\CrudContaRefatorada\\ToDoList.MVC\\ToDoList.MVC.csproj",
-      "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\Desktop\\CrudContaRefatorada\\ToDoList.MVC\\obj\\",
+      "projectPath": "C:\\Users\\Felipe\\Documents\\lpc-torres-2019-2\\CrudContaRefatorada\\ToDoList.MVC\\ToDoList.MVC.csproj",
+      "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Felipe\\Documents\\lpc-torres-2019-2\\CrudContaRefatorada\\ToDoList.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -13440,11 +13440,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\rober\\Desktop\\CrudContaRefatorada\\ToDoList.Domain\\ToDoList.Domain.csproj": {
-              "projectPath": "C:\\Users\\rober\\Desktop\\CrudContaRefatorada\\ToDoList.Domain\\ToDoList.Domain.csproj"
+            "C:\\Users\\Felipe\\Documents\\lpc-torres-2019-2\\CrudContaRefatorada\\ToDoList.Domain\\ToDoList.Domain.csproj": {
+              "projectPath": "C:\\Users\\Felipe\\Documents\\lpc-torres-2019-2\\CrudContaRefatorada\\ToDoList.Domain\\ToDoList.Domain.csproj"
             },
-            "C:\\Users\\rober\\Desktop\\CrudContaRefatorada\\ToDoList.Repositories\\ToDoList.Repositories.csproj": {
-              "projectPath": "C:\\Users\\rober\\Desktop\\CrudContaRefatorada\\ToDoList.Repositories\\ToDoList.Repositories.csproj"
+            "C:\\Users\\Felipe\\Documents\\lpc-torres-2019-2\\CrudContaRefatorada\\ToDoList.Repositories\\ToDoList.Repositories.csproj": {
+              "projectPath": "C:\\Users\\Felipe\\Documents\\lpc-torres-2019-2\\CrudContaRefatorada\\ToDoList.Repositories\\ToDoList.Repositories.csproj"
             }
           }
         }
