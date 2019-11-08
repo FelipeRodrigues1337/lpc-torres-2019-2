@@ -1,0 +1,6 @@
+C:\Users\Felipe\Desktop\API\lpc-api\obj\Debug\netcoreapp2.2\LPC-API.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\API\lpc-api\obj\Debug\netcoreapp2.2\LPC-API.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\API\lpc-api\obj\Debug\netcoreapp2.2\LPC-API.RazorAssemblyInfo.cache
+C:\Users\Felipe\Desktop\API\lpc-api\obj\Debug\netcoreapp2.2\LPC-API.RazorAssemblyInfo.cs
+C:\Users\Felipe\Desktop\API\lpc-api\obj\Debug\netcoreapp2.2\LPC-API.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\API\lpc-api\obj\Debug\netcoreapp2.2\LPC-API.AssemblyInfo.cs
