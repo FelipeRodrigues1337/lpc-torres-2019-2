@@ -1,0 +1,12 @@
+/home/daniela/Documentos/Solution1/Data/bin/Debug/netcoreapp2.2/Data.deps.json
+/home/daniela/Documentos/Solution1/Data/bin/Debug/netcoreapp2.2/Data.dll
+/home/daniela/Documentos/Solution1/Data/bin/Debug/netcoreapp2.2/Data.pdb
+/home/daniela/Documentos/Solution1/Data/bin/Debug/netcoreapp2.2/Domain.dll
+/home/daniela/Documentos/Solution1/Data/bin/Debug/netcoreapp2.2/Domain.pdb
+/home/daniela/Documentos/Solution1/Data/obj/Debug/netcoreapp2.2/Data.csprojAssemblyReference.cache
+/home/daniela/Documentos/Solution1/Data/obj/Debug/netcoreapp2.2/Data.csproj.CoreCompileInputs.cache
+/home/daniela/Documentos/Solution1/Data/obj/Debug/netcoreapp2.2/Data.AssemblyInfoInputs.cache
+/home/daniela/Documentos/Solution1/Data/obj/Debug/netcoreapp2.2/Data.AssemblyInfo.cs
+/home/daniela/Documentos/Solution1/Data/obj/Debug/netcoreapp2.2/Data.csproj.CopyComplete
+/home/daniela/Documentos/Solution1/Data/obj/Debug/netcoreapp2.2/Data.dll
+/home/daniela/Documentos/Solution1/Data/obj/Debug/netcoreapp2.2/Data.pdb

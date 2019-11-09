@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPC-API", "LPC-API\LPC-API.csproj", "{EE560E02-D49F-4734-B4F7-F5155B1FFC6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\Solution1\Data\Data.csproj", "{643631A7-0CF0-457F-84BE-5185CD2268F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Solution1\Domain\Domain.csproj", "{25916623-CE1A-4E03-8626-7107E1247918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE560E02-D49F-4734-B4F7-F5155B1FFC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE560E02-D49F-4734-B4F7-F5155B1FFC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE560E02-D49F-4734-B4F7-F5155B1FFC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE560E02-D49F-4734-B4F7-F5155B1FFC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643631A7-0CF0-457F-84BE-5185CD2268F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643631A7-0CF0-457F-84BE-5185CD2268F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643631A7-0CF0-457F-84BE-5185CD2268F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643631A7-0CF0-457F-84BE-5185CD2268F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25916623-CE1A-4E03-8626-7107E1247918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25916623-CE1A-4E03-8626-7107E1247918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25916623-CE1A-4E03-8626-7107E1247918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25916623-CE1A-4E03-8626-7107E1247918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

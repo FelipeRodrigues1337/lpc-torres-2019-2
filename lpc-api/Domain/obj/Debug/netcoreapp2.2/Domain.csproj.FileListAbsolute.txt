@@ -1,0 +1,12 @@
+/home/daniela/Documentos/Solution1/Domain/bin/Debug/netcoreapp2.2/Domain.deps.json
+/home/daniela/Documentos/Solution1/Domain/bin/Debug/netcoreapp2.2/Domain.dll
+/home/daniela/Documentos/Solution1/Domain/bin/Debug/netcoreapp2.2/Domain.pdb
+/home/daniela/Documentos/Solution1/Domain/obj/Debug/netcoreapp2.2/Domain.csprojAssemblyReference.cache
+/home/daniela/Documentos/Solution1/Domain/obj/Debug/netcoreapp2.2/Domain.csproj.CoreCompileInputs.cache
+/home/daniela/Documentos/Solution1/Domain/obj/Debug/netcoreapp2.2/Domain.AssemblyInfoInputs.cache
+/home/daniela/Documentos/Solution1/Domain/obj/Debug/netcoreapp2.2/Domain.AssemblyInfo.cs
+/home/daniela/Documentos/Solution1/Domain/obj/Debug/netcoreapp2.2/Domain.dll
+/home/daniela/Documentos/Solution1/Domain/obj/Debug/netcoreapp2.2/Domain.pdb
+/home/daniela/Documentos/Solution1/Domain/bin/Debug/netcoreapp2.2/Newtonsoft.Json.dll
+/home/daniela/Documentos/Solution1/Domain/bin/Debug/netcoreapp2.2/Newtonsoft.Json.xml
+/home/daniela/Documentos/Solution1/Domain/obj/Debug/netcoreapp2.2/Domain.csproj.CopyComplete
